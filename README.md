@@ -22,6 +22,6 @@ It fetches real-time weather data using the [Open-Meteo API](https://open-meteo.
 
 Clone the repo:
 ```bash
-git clone https://github.com/gauravmishra00/react-weather-app.git
+git clone https://github.com/GauravDevlog/react-weather-app.git
 cd react-weather-app
 
